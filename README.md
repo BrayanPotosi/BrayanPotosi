@@ -4,7 +4,7 @@
 
 :house_with_garden: Actualmente vivo en Colombia
 
-:rocket: Interesado en proyectos colaborativos
+:rocket: Interesado en participar en proyectos colaborativos
 
 👨‍💻 Me encuentro aprendiendo tecnologias frontend como HTML, CSS ,JS Webpack y React
 
