@@ -6,7 +6,7 @@
 
 :rocket: Interesado en participar en proyectos colaborativos
 
-👨‍💻 Me encuentro aprendiendo tecnologias frontend como HTML, CSS ,JS Webpack y React
+👨‍💻 Me encuentro aprendiendo tecnologías frontend como HTML, CSS ,JS Webpack y React
 
 🧠 Me interesa aprender SQL, Python y Django
 
