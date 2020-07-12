@@ -8,5 +8,5 @@
 
 🧠 Me interesa aprender SQL, Python y Django
 
-✉ Puedes contactarme por [Linkedin][https://www.linkedin.com/in/brayanpotosi/]
-[https://www.linkedin.com/in/brayanpotosi/]: https://www.linkedin.com/in/brayanpotosi/ 
+✉ Puedes contactarme por [Linkedin](https://www.linkedin.com/in/brayanpotosi/ "Linkedin")
+
