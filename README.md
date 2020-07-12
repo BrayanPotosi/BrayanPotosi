@@ -4,7 +4,7 @@
 
 :house_with_garden: Actualmente vivo en Colombia
 
-👨‍💻 Me encuentro aprendiendo tecnologias del desarrollo web como HTML, CSS ,JS Webpack y React
+👨‍💻 Me encuentro aprendiendo tecnologias del desarrollo web frontend como HTML, CSS ,JS Webpack y React
 
 🧠 Me interesa aprender SQL, Python y Django
 
