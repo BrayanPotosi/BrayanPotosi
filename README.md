@@ -1,14 +1,14 @@
 ### Bienvenido	:octocat:
 
-:man: Mi nombre es Brayan Potosi
+:man: My name is Brayan Potosi
 
-:house_with_garden: Actualmente vivo en Colombia
+:house_with_garden: I currently live in Colombia
 
-:rocket: Interesado en participar en proyectos colaborativos
+:rocket: I am interested in participating in collaborative projects
 
-👨‍💻 Me encuentro aprendiendo tecnologías frontend como HTML, CSS ,JS Webpack y React
+👨‍💻 I'm learning frontend technologies HTML, CSS, JS, Webpack and React 
 
-🧠 Me interesa aprender SQL, Python y Django
+🧠 I'm interested in learn SQL, Python y Django
 
-✉ Puedes contactarme por [Linkedin](https://www.linkedin.com/in/brayanpotosi/ "Linkedin")
+✉ You can contact me in [Linkedin](https://www.linkedin.com/in/brayanpotosi/ "Linkedin")
 
