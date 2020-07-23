@@ -1,4 +1,4 @@
-### Bienvenido	:octocat:
+### Welcome	:octocat:
 
 :man: My name is Brayan Potosi
 
