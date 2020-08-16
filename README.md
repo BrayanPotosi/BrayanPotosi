@@ -10,5 +10,5 @@
 
 🧠 I'm interested in learn SQL, Python and Django
 
-✉ You can contact me in [Linkedin](https://www.linkedin.com/in/brayanpotosi/ "Linkedin")
+✉ You can contact me on my social networks [Linkedin](https://www.linkedin.com/in/brayanpotosi/ "Linkedin") [Facebook](https://www.facebook.com/brayan.potosi.5623/ "Facebook")
 
