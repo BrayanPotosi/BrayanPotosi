@@ -8,7 +8,7 @@
 
 👨‍💻 I'm learning frontend technologies HTML, CSS, JS, Webpack and React 
 
-🧠 I'm interested in learn SQL, Python y Django
+🧠 I'm interested in learn SQL, Python and Django
 
 ✉ You can contact me in [Linkedin](https://www.linkedin.com/in/brayanpotosi/ "Linkedin")
 
