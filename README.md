@@ -12,7 +12,7 @@
 
 ✉ You can contact me on my social networks [Linkedin](https://www.linkedin.com/in/brayanpotosi/ "Linkedin") [Facebook](https://www.facebook.com/brayan.potosi.5623/ "Facebook")
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brayanpotosi&show_icons=true" alt="brayanpotosi" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
