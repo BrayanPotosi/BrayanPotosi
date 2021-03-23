@@ -6,7 +6,7 @@
 
 :rocket: I am interested in participating in collaborative projects
 
-👨‍💻 Backend development : Python Flask Django SQL
+👨‍💻 Technologies : Python Flask Django SQL
 
 ✉ You can contact me on my social networks [Linkedin](https://www.linkedin.com/in/brayanpotosi/ "Linkedin") [Facebook](https://www.facebook.com/brayan.potosi.5623/ "Facebook")
 
