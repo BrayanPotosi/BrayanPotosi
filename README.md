@@ -6,7 +6,7 @@
 
 :rocket: I am interested in participating in collaborative projects
 
-👨‍💻 Technologies : Python Flask Django SQL
+👨‍💻 Tools and technologies : Python Flask Django MySQL postgreSQL AWS
 
 ✉ You can contact me on [Linkedin](https://www.linkedin.com/in/brayanpotosi/ "Linkedin")
 
