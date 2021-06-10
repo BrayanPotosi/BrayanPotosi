@@ -1,7 +1,5 @@
 ### Welcome	:octocat:
 
-:man: My name is Brayan Potosi
-
 :house_with_garden: I currently live in Colombia
 
 :rocket: I am interested in participating in collaborative projects
