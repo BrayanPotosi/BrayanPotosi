@@ -3,8 +3,6 @@
 
 :rocket: I am interested in participating in collaborative projects, feel free to send me an email to brayanpotosidev@gmail.com
 
-👨‍💻 Tools and technologies : Python Flask Django MySQL postgreSQL AWS
-
 ✉ If you want to work with me you can contact me on [Linkedin](https://www.linkedin.com/in/brayanpotosi/ "Linkedin")
 
 <div style="display:flex">
@@ -18,6 +16,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> &nbsp;
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> &nbsp;
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> &nbsp;
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> &nbsp;
+  <img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" /> &nbsp;
 </div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brayanpotosi&show_icons=true" alt="brayanpotosi" /></p>
 
