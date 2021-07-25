@@ -22,6 +22,6 @@
   <img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" /> &nbsp;
 </div>
 
-</br></br>
+</br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brayanpotosi&show_icons=true" alt="brayanpotosi" /></p>
 
