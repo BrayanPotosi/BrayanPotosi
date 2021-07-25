@@ -3,7 +3,7 @@
 
 :rocket: **I am interested in participating in collaborative projects, feel free to send me an email to brayanpotosidev@gmail.com**
 
-✉ ** If you want to work with me you can contact me on** [Linkedin](https://www.linkedin.com/in/brayanpotosi/ "Linkedin")
+✉ **If you want to work with me you can contact me on** [Linkedin](https://www.linkedin.com/in/brayanpotosi/ "Linkedin")
 
 <div style="display:flex">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
