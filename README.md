@@ -26,5 +26,5 @@
 </div>
 
 </br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brayanpotosi&show_icons=true" alt="brayanpotosi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brayanpotosi&" alt="brayanpotosi" /></p>
 
