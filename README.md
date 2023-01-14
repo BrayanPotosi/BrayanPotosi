@@ -2,7 +2,7 @@
 
 :house_with_garden: **I currently live in Colombia**
 
-:rocket: **I am interested in participating in collaborative projects, feel free to send me an email to brayanpotosidev@gmail.com**
+:rocket: **I am interested in participating in collaborative projects, feel free to send me a message**
 
 ✉ **If you want to work with me you can contact me on** **[Linkedin](https://www.linkedin.com/in/brayanpotosi/ "Linkedin")**
 
