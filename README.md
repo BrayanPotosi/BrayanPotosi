@@ -1,10 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brayanpotosi&label=Profile%20views&color=0e75b6&style=flat" alt="brayanpotosi" /> </p>
 
-:house_with_garden: **I currently live in Colombia**
+:house_with_garden: **Currently, I live in Colombia.**
 
-:rocket: **I am interested in participating in collaborative projects, feel free to send me a message**
+:rocket: **I am interested in participating in collaborative projects, feel free to send me a message.**
 
-✉ **If you want to work with me you can contact me on** **[Linkedin](https://www.linkedin.com/in/brayanpotosi/ "Linkedin")**
+✉ **If you want to work with me, you can contact me through** **[Linkedin](https://www.linkedin.com/in/brayanpotosi/ "Linkedin")**
 
 </br>
 
