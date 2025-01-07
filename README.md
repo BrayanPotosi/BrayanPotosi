@@ -1,26 +1,13 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brayanpotosi&label=Profile%20views&color=0e75b6&style=flat" alt="brayanpotosi" /> </p>
+🏡 **Currently, I live in Colombia.**<br><br>🚀 **I am interested in participating in collaborative projects, feel free to send me a message.**<br><br>🤝 **If you want to work with me, you can contact me through [LinkedIn](https://www.linkedin.com/in/brayanpotosi/).** 
 
-:house_with_garden: **Currently, I live in Colombia.**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)<br/>
 
-:rocket: **I am interested in participating in collaborative projects, feel free to send me a message.**
+![](https://github-readme-stats.vercel.app/api?username=BrayanPotosi&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanPotosi&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-✉ **If you want to work with me, you can contact me through** **[Linkedin](https://www.linkedin.com/in/brayanpotosi/ "Linkedin")**
+---
+[![](https://visitcount.itsvg.in/api?id=BrayanPotosi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</br>
-
-<div style="display:flex">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />&nbsp;
-  <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" /> &nbsp;
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> &nbsp;
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" /> &nbsp;
-</div>
 
 </br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brayanpotosi&" alt="brayanpotosi" /></p>
